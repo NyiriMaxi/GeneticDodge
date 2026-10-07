@@ -1,0 +1,38 @@
+# Visual Studio user-specific state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/[Dd]ebug/
+**/[Rr]elease/
+**/x64/
+**/x86/
+**/Win32/
+**/[Bb]uild/
+**/out/
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog/
+*.lastbuildstate
+*.recipe
+*.log
+*.exp
+*.res
+*.manifest
+*.exe
+*.dll
+*.lib
+
+# Restored NuGet packages
+/packages/
+
+# Test output
+TestResults/
